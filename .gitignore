@@ -1,2 +1,4 @@
 *.env.*
 */*/transcribed/*
+.vscode
+!.vscode/launch.json
