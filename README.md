@@ -13,7 +13,7 @@ The infrastructure the app relies on is:
 * A redis cache for the (celery) ingestion worker queue
 * An identity provider for auth (Auth0 used here) 
 
-The application has three components which would scale independently:
+The application has three components:
 
 * Backend API  - CRUD for topics & content, and the chat endpoint  
 * Celery worker(s) - content ingestion jobs
