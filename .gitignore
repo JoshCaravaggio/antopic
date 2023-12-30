@@ -1,4 +1,5 @@
 *.env.*
+!.env.example
 */*/transcribed/*
 .vscode
 !.vscode/launch.json
