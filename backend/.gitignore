@@ -3,6 +3,9 @@
 */embeddings/*
 */content/*
 
+.vscode
+!.vscode/launch.json
+
 # Django #
 *.log
 *.pot
