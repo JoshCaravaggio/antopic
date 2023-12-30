@@ -15,7 +15,7 @@ The infrastructure the app relies on is:
 
 The application has three components which would scale independently:
 
-* Backend API container - CRUD for topics & content, and the chat endpoint  
-* Celery worker containers - content ingestion jobs
+* Backend API  - CRUD for topics & content, and the chat endpoint  
+* Celery worker(s) - content ingestion jobs
 * Frontend Vue.js Site (served statically) - frontend UI 
 
