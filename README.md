@@ -19,5 +19,5 @@ The application has three components:
 
 * Backend API  - CRUD for topics & content, and the chat endpoint  
 * Celery worker(s) - content ingestion jobs
-* Frontend Vue.js Site (served statically) - frontend UI 
+* Frontend Vue.js Site - frontend UI 
 
